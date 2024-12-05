@@ -1,1 +1,1 @@
-FROM bash:alpine3.16
+FROM bash:alpine3.16@sha256:06fca7ba6a55c2eda6013fd1ab428c2e15f0d17150f433c78fcb8a0e416157a0
